@@ -19,7 +19,7 @@ Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolforgo)
 
   </td>
-    <td width="1" bgcolor="#30363d"></td>
+    <td></td>
     <td valign="top" width="50%">
 
 ### Tecnologias
