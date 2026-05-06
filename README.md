@@ -2,9 +2,9 @@
 
 Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e entusiasta de tecnologia e esportes.
 
-<table border="0">
+<table>
   <tr>
-    <td valign="top">
+    <td>
 
 ### Sobre mim
 
@@ -20,7 +20,7 @@ Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e
 
   </td>
     <td></td>
-    <td valign="top" width="50%">
+    <td width="50%">
 
 ### Tecnologias
 
