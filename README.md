@@ -17,10 +17,8 @@ Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rdfvalerio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolforgo)
-
     </td>
     <td valign="top" width="50%" style="border: none">
-
 ### Tecnologias
 
 **Experiência profissional**
