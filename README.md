@@ -3,8 +3,8 @@
 Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e entusiasta de tecnologia e esportes.
 
 <table>
-  <tr style="border: none">
-    <td valign="top" style="border: none; border-right: 1px solid #d0d7de;">
+  <tr>
+    <td valign="top">
 
 ### Sobre mim
 
@@ -18,7 +18,7 @@ Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rdfvalerio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolforgo)
     </td>
-    <td valign="top" width="50%" style="border: none">
+    <td valign="top" width="50%">
 ### Tecnologias
 
 **Experiência profissional**
@@ -36,7 +36,6 @@ Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
     </td>
   </tr>
 </table>
