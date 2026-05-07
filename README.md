@@ -8,9 +8,9 @@ Me chamo José Rodolfo, sou de Campina Grande - Paraíba. Nascido em 1991, pai e
 
 ### Sobre mim
 
-- 🎮 Primeiro contato com programação na adolescência através de **mIRC Scripting**
-- 🖥️ Graduado em **Análise e Desenvolvimento de Sistemas**
+- 🎮 Iniciei na programação com [mIRC Script](https://www.mirc.com)
 - 🌐 Desde 2021 focado em desenvolvimento **web**
+- 🖥️ Graduado em **Análise e Desenvolvimento de Sistemas**
 - 🎓 Professor por formação
 - 🏉 Atleta de rugby e apaixonado pelo esporte
 
